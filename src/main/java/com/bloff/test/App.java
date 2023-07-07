@@ -6,6 +6,7 @@ import java.text.DecimalFormat;
 
 public class App {
     public static void main(String[] args) {
+        System.out.println();
         String number = "15340.119999999225225542222";
         String number2 = "15340.14000000111";
         Double doubl = Double.valueOf(number);
